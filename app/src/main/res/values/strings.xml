@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InteractiveApp</string>
+    <string name="app_title">Proyectos a Ofertar</string>
+    <string name="find_project">Encontrar Proyectos</string>
+    <string name="project_types">No se ha seleccionado ningún proyecto</string>
+    <string-array name="project_types_array">
+        <item>Infraestructura</item>
+        <item>Recreación</item>
+    </string-array>
+</resources>
