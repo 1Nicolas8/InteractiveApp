@@ -6,5 +6,11 @@
     <string-array name="project_types_array">
         <item>Infraestructura</item>
         <item>Recreación</item>
+        <item>Educación</item>
+        <item>Salud</item>
+        <item>Cultura</item>
+        <item>Desarrollo Social</item>
+        <item>Medio Ambiente</item>
+        <item>Tecnología e Innovación</item>
     </string-array>
 </resources>
